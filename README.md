@@ -29,6 +29,7 @@ Last checked: 2026-06-12. Public pricing and access rules change often; treat th
 | [Aviation Edge](https://aviation-edge.com/) | Flight tracker, real-time/future/historical schedules, routes, delays, ticket-price endpoint | Self-serve | Public pricing shows discounted first-month trials and higher renewal prices | Broad aviation datasets; read renewal pricing and coverage notes closely. |
 | [Flightradar24 API](https://fr24api.flightradar24.com/) | Real-time aircraft positions, historical tracks, airline/airport reference data | Self-serve subscription | Public subscription page lists plans starting at $9/month | Strong for aircraft movement and ADS-B-backed tracking; not fare search or ticketing. |
 | [OpenSky Network API](https://openskynetwork.github.io/opensky-api/) | Live airspace state vectors and ADS-B-derived flight data | Public/research | Free public API with research/non-commercial framing | Excellent for research and aircraft-position projects; official docs say it does not provide commercial schedules or delay data. |
+| [ATIS Relay](https://atisrelay.com/api_docs) | Live D-ATIS, ATIS/AWOS/ASOS transcripts with audio, airport weather/NOTAMs/PIREPs, and live US air traffic from FAA SWIM (TFMS) | Self-serve free tier | Free tier; live traffic $0.50 per 1,000 requests with 1,000 free per month, then $0.25 per 1,000 above 10 million a month | Operational airport and US traffic data, not fare search or ticketing. |
 
 ## Live partner, contract, or enterprise APIs
 
